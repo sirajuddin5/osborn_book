@@ -98,7 +98,7 @@ class _CustomDrawerState extends State<CustomDrawer> {
               ),
               child: Expanded(
                 child: Image.asset(
-                  'images/drawerosb.png',
+                  'images/osbrndrwr.png.png',
                   height: media.height * 0.1,
                   width: media.width * 0.65,
                 ),
